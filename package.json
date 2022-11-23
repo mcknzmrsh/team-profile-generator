@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "app to create a team profile generator",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcknzmrsh/team-profile-generator.git"
+  },
+  "author": "Mackenzie Marsh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcknzmrsh/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/mcknzmrsh/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "react-scripts": "^4.0.1"
+  }
+}
